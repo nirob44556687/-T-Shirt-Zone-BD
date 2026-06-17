@@ -1,0 +1,6 @@
+{
+  "name": "T-Shirt Zone BD",
+  "description": "Premium Black & Gold E-Commerce App for high-quality T-Shirts in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
